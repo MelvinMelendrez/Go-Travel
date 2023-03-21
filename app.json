@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "goTravel",
-    "slug": "goTravel",
+    "slug": "gotravel",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/restaurants.png",
@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8c14880b-1ad7-44b5-8b07-a3b8dd7e7e63"
+      }
+    },
+    "owner": "melvin10",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8c14880b-1ad7-44b5-8b07-a3b8dd7e7e63"
     }
   }
 }
